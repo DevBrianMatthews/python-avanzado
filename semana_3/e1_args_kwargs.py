@@ -1,3 +1,7 @@
+"""
+E1 - *args, **kwargs, unpacking
+Semana 3 - Funciones Avanzadas
+"""
 
 title = 'Sales Q1'
 data = {'name': 'Tony Stark', 'date': '07/10/2026'}
