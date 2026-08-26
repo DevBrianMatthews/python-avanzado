@@ -6,7 +6,7 @@ Semana 3 - Funciones Avanzadas
 title = 'Sales Q1'
 data = {'name': 'Tony Stark', 'date': '07/10/2026'}
 
-def generate_report(titulo, *args, **kwargs):
+def generate_report(title, *args, **kwargs):
     print(f'=== REPORT: {title} ===')
     print('Items:')
     for i in args:
